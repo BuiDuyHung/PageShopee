@@ -1,0 +1,22 @@
+d-ffmpeg-mt/libavcodec/x86/{dsputil_mmx.h,vp3dsp_mmx.h,vp3dsp_sse2.h}
+Copyright: Copyright: 2007 Aurelien Jacobs <aurel@gnuage.org>:
+License: LGPL (v2.1 or later)
+
+Files: chromium/src/third_party/ffmpeg/source/patched-ffmpeg-mt/libavcodec/x86/{dnxhd_mmx.c}
+Copyright: Copyright: 2007 Baptiste Coudurier <baptiste dot coudurier at smartjog dot com>:
+License: LGPL (v2.1 or later)
+
+Files: chromium/src/third_party/ffmpeg/source/patched-ffmpeg-mt/libavcodec/x86/{flacdsp_mmx.c}
+Copyright: Copyright: 2007 Loren Merritt:
+License: LGPL (v2.1 or later)
+
+Files: chromium/src/third_party/ffmpeg/source/patched-ffmpeg-mt/libavcodec/x86/{rv40dsp_mmx.c}
+Copyright: Copyright: 2008 Konstantin Shishkov, Mathieu Velten:
+License: LGPL (v2.1 or later)
+
+Files: chromium/src/third_party/ffmpeg/source/patched-ffmpeg-mt/libavcodec/x86/{dsputil_h264_template_ssse3.c,fft_3dn.c,fft_sse.c}
+Copyright: Copyright: 2008 Loren Merritt:
+License: LGPL (v2.1 or later)
+
+Files: chromium/src/third_party/ffmpeg/source/patched-ffmpeg-mt/libavcodec/x86/{vp6dsp_mmx.c,vp6dsp_mmx.h}
+Copyright: Copyright: 2009 Sebastien Lucas <sebastien.lucas@gmail.com>:
